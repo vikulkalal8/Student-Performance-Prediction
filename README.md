@@ -18,6 +18,10 @@ A local interactive mathematical laboratory that compares ordinary least-squares
 - Dataset preprocessing and correlation analysis.
 - Model evaluation using RMSE and R².
 
+**dev-siddhi — Dashboard**
+- Interactive dashboard and data visualization.
+- Model integration and application testing.
+
 ## Quick start (Windows, PowerShell / VS Code)
 
 Install 64-bit Python 3.11 or 3.12 and Git if not already installed. Open this folder in VS Code.
