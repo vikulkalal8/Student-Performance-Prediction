@@ -1,8 +1,8 @@
 # EduPredict | Student Performance Prediction
 
 **FY B.Tech CSE mathematics mini project** · Linear regression & principal component analysis (PCA)
-dev-vikul — Linear Regression
 
+dev-vikul — Linear Regression
 - Regression model and student performance prediction.
 - Regression coefficients and error analysis.
 
