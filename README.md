@@ -2,11 +2,17 @@
 
 **FY B.Tech CSE mathematics mini project** · Linear regression & principal component analysis (PCA)
 
+**Members.
 dev-vikul — Linear Regression
 - Regression model and student performance prediction.
 - Regression coefficients and error analysis.
 
 A local interactive mathematical laboratory that compares ordinary least-squares regression with principal component regression (PCR). Built from the original 20-record student-performance project; the original CSV is preserved. No API keys or cloud service are required.
+
+dev-aman — PCA
+
+- Feature standardization and dimensionality reduction.
+- Eigenvalues and explained variance analysis.
 
 ## Quick start (Windows, PowerShell / VS Code)
 
